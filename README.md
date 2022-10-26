@@ -10,3 +10,10 @@ estão “X&quot; posições a frente.
 
 
 ![crypto-desktop](https://user-images.githubusercontent.com/44556635/197913234-2efd99ad-d57b-457b-ba66-c3e3801cde96.jpeg)
+
+
+
+## Próximo passo
+
+- Criar input para informar o valor (numérico) da cifra (quantas casa a frente será a
+letra criptografada;
